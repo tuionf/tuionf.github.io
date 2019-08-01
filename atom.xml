@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>C:/Users/tuion/Documents/Gridea/output</id>
+    <id>https://tuionf.github.io</id>
     <title>tuionf</title>
-    <updated>2019-08-01T04:01:50.916Z</updated>
+    <updated>2019-08-01T04:03:20.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="C:/Users/tuion/Documents/Gridea/output"/>
-    <link rel="self" href="C:/Users/tuion/Documents/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://tuionf.github.io"/>
+    <link rel="self" href="https://tuionf.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>C:/Users/tuion/Documents/Gridea/output/images/avatar.png</logo>
-    <icon>C:/Users/tuion/Documents/Gridea/output/favicon.ico</icon>
+    <logo>https://tuionf.github.io/images/avatar.png</logo>
+    <icon>https://tuionf.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, tuionf</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>C:/Users/tuion/Documents/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="C:/Users/tuion/Documents/Gridea/output/post/hello-gridea/index.html">
+        <id>https://tuionf.github.io/post/hello-gridea</id>
+        <link href="https://tuionf.github.io/post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
