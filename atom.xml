@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://tuionf.github.io</id>
     <title>tuionf</title>
-    <updated>2019-08-01T04:17:05.499Z</updated>
+    <updated>2019-08-01T09:20:43.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://tuionf.github.io"/>
     <link rel="self" href="https://tuionf.github.io/atom.xml"/>
@@ -13,6 +13,522 @@
     <logo>https://tuionf.github.io/images/avatar.png</logo>
     <icon>https://tuionf.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, tuionf</rights>
+    <entry>
+        <title type="html"><![CDATA[2019年中小结：如何用工具放大复利？]]></title>
+        <id>https://tuionf.github.io/post/2019-nian-zhong-xiao-jie-ru-he-yong-gong-ju-fang-da-fu-li</id>
+        <link href="https://tuionf.github.io/post/2019-nian-zhong-xiao-jie-ru-he-yong-gong-ju-fang-da-fu-li">
+        </link>
+        <updated>2019-08-01T09:19:38.000Z</updated>
+        <content type="html"><![CDATA[<p>2019年已经过去了一半，币范一直在币圈里摸爬滚打，但是也木有忘记对自己技能的修炼，年初的时候想用一年时间学习一些技能，今天就来给大家汇报一下，这半年时间学习到的两项技能：双拼和语音写作。</p>
+<h2 id="练习双拼">练习双拼</h2>
+<p>昨天看到一篇聊<a href="https://www.jianshu.com/p/a1706d96215c">时间复利的文章</a>，其中提到了双拼，双拼是一种以声母和韵母来完成整体输入的方法，因为键盘按键数量和韵母的数量不完全匹配，所以每一个按键需要对应多种韵母，所以我们需要去记忆每一个按键对应的韵母，而全拼很早只需要你去把每一个字的拼音敲出来，就可以完成输入，这是两种完全不同的思路。<strong>双拼背后的逻辑在于用更少的去按键去完成输入，这样效率更高</strong>。我们暂且不讨论这个底层逻辑，是不是有问题，我们先假设这样的逻辑是没有问题的：用更少的按键去完成输入，是一个效率更高的方式。</p>
+<p>我很早就知道双拼，但一直没有去尝试。上次尝试了两天之后就放弃了。目前想要去学习双拼的动机在于:</p>
+<ol>
+<li>它是一个长期复利的事情，我应该去做，这样具有长期时间复利的事情，而且是越多越好</li>
+<li>追求更高的效率</li>
+<li>另外就是前面提到的向内求，不断的向内求，去学习新的技能，让自己获得这种成长的快感</li>
+</ol>
+<p>接下来关于双拼要做的事情，一是优化双拼的记忆逻辑，二是用零碎时间练习双拼</p>
+<h2 id="从双拼所想到">从双拼所想到</h2>
+<p>双拼本身是一种技能，我对这种技能感觉是：<strong>入门门槛非常的高</strong>，这让我联想到我以前遇到的很多好用的工具，入门门槛都是非常的高。我目前并不确定，他们两者之间会有很直接的关联，但是，从目前接触到的确实好像就是这样。</p>
+<p>比如说Mac上的OmniFocus，在GTD的实践者中推崇备至，虽然它很完整的实现了GTD的基本思想，但是它的整体入门门槛、认知成本非常高</p>
+<p>软件开发中的有一款编辑器叫：vim，它的思想是所有输入用键盘完成，不需要手指离开键盘去操作鼠标，学习成本非常高。</p>
+<p>计算机的软件和硬件也是这样，软件的入门成本非常的低，所有绝大多数人都选择了软件，但是硬件，前几年的学习都是为后面的硬件学习做铺垫，前几年，你能接触到的硬件很少，需要到你读研究生，甚至博士，才能在硬件上有所作为，硬件开始的学习曲线非常的陡。这也是大部分人为什么选择软件的原因，但就目前来看，软件是一个超饱和的行业，但是硬件并没有，反而人才稀缺。</p>
+<p>入门门槛极高，导致大部分大部分人望而却步，我们会天然排斥这样的东西。这样的东西包括软件、工具、技能等，人在面对的时候是天然畏惧的，这是很正常的，只是说我们要去尽量去避免这种纯原始的生理反应。我们要去考虑门槛高同时意味着能进来的人就会很少，那么如果你一旦进来了，就比大部分人要超前一些。</p>
+<p>所以碰到这样的工具、软件或技能，反而不应该去排斥，是不是<strong>应该花时间、成本去学习，然后利用时间的复利持续放大它</strong>。</p>
+<h2 id="第一次尝试语音写作">第一次尝试语音写作</h2>
+<p>尝试语音写作，我不太确定自己会不会坚持下去，因为去做这个事情需要一些外界的条件，比如说需要一个安静的环境，还需要特意安排时间去说，但是还是要尽量去做。</p>
+<p>第一次尝试语音写作，第一个感觉是：好难，感觉都说好长时间了，结果发现才写了几百字；第二个感觉是困惑内容的来源，语音写作是一个积累素材的很好的方式，你的素材从哪里来呢？这确实是一个很大的问题，如果你去说自己的每天，这样一个流水账，对自己的价值有多大呢？第三个感觉是还是要去找一些同频的人，与自己一起成长。可以集中时间去研究语音写作，去看语音写作给别人带来的一些变化，然后去强化自己对于语音写作信心，遇到的问题可以及时去请教，这样在话，这个技能的学习上就会更加容易一些。</p>
+<p>练习语音写作，动机主要是前面那篇时间复利的文章，另外基于自己对于内求外求的思考，希望去把语音写作修炼成为自己的第一项技能。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【币范·解读】炒币真的能帮你实现阶级跃升吗？]]></title>
+        <id>https://tuionf.github.io/post/bi-fan-jie-du-chao-bi-zhen-de-neng-bang-ni-shi-xian-jie-ji-yue-sheng-ma</id>
+        <link href="https://tuionf.github.io/post/bi-fan-jie-du-chao-bi-zhen-de-neng-bang-ni-shi-xian-jie-ji-yue-sheng-ma">
+        </link>
+        <updated>2019-08-01T09:18:50.000Z</updated>
+        <content type="html"><![CDATA[<p>昨天币范的文章写了<a href="https://bihu.com/article/1859997542">上周五咕噜的直播</a>，咕噜直播的主题是：你的下一次阶级跃升，<a href="https://bihu.com/article/1859997542">感兴趣的可以看看昨天的文章</a>，但是写完昨天的文章之后，我对咕噜提的这个问题产生了思考：下一次阶级跃升在哪里？</p>
+<p>咕噜直播讲的是区块链方面，他看好的可能性和方向，以及他对未来可能性的分析和理解，<strong>今天我希望和大家讨论的是整个人生阶级跃迁的方向在哪里？</strong></p>
+<p>本文想结合前一阵看到的一个案例，李俊的人生聊一下这个话题，希望能从更底层的人生逻辑去看待阶级跃升。</p>
+<h2 id="李俊的唏嘘人生">李俊的唏嘘人生</h2>
+<p><img src="https://img.huxiucdn.com/article/content/201907/22/120607358208.jpg?imageView2/2/w/1000/format/jpg/interlace/1/q/85" alt="img"></p>
+<p>不知道多少人知道这个图，这幅图的作者是李俊，他不是设计师，他是个病毒的制作者。</p>
+<h3 id="李俊成名的15秒">李俊成名的15秒</h3>
+<p>有人说过，每个人都有15秒成名的机会，而李俊的15秒正是熊猫烧香。</p>
+<p>2006年底，国内大量电脑中毒，中毒之后电脑会变成一只熊猫举着三炷香，随后会出现运行缓慢、死机、蓝屏等情况。病毒通过用户浏览网页、共享局域网以及U盘等途径快速传播，随之而来的熊猫烧香病毒成为全国焦点，成为当年的标志性事件。</p>
+<p>回顾熊猫烧香的历史：</p>
+<p>· 2006年11月中旬，“熊猫烧香”病毒首次出现<br>
+· 2006年12月中旬，“熊猫烧香”进入急速变种期<br>
+· 2007年1月9日，  “熊猫烧香”迎来全国性大规模爆发<br>
+· 2007年1月9日，   病毒变种数量定格在306个<br>
+· 2007年1月19日，  制造者称“熊猫烧香”最后一次更新<br>
+· 2007年1月24日，  反病毒工程师又发现“熊猫烧香”相似病毒<br>
+· 2007年2月6日，  “熊猫烧香”传播和破坏性增强10倍<br>
+· 2007年2月9日，  “熊猫烧香”变身“金猪”继续作恶</p>
+<p>紧接着，2007年2月12日，熊猫烧香电脑病毒案在湖北告破，李俊被抓，最终被判4年。</p>
+<h3 id="出狱后一切重新开始">出狱后：一切重新开始</h3>
+<p>李俊因在狱中表现良好，获得减刑，于2009年出狱，那时李俊在微博中表示：一切重新开始。</p>
+<p>如出狱前网民为李俊未来规划的那样，去反病毒部门、反病毒软件公司或是大学里的信息安全学院。</p>
+<p>确实很多安全公司向其抛出了橄榄枝，但是并未正式聘用他，都想蹭李俊的热度。</p>
+<p>可能李俊的水平没有得到公司认可，导致他在求职上一直不是很顺利。</p>
+<h3 id="唏嘘再次入狱">唏嘘：再次入狱</h3>
+<p>2012年圣诞，李俊发完最后一条微博，从此人间蒸发。</p>
+<p>直到，2013年的丽水公安的一条微博，人们才发现李俊又被抓了。</p>
+<p>原来出狱后的李俊做了一家棋牌游戏公司，公司经营不善倒闭之后，李俊有参与开发了“金元宝”棋牌游戏，仅仅一年，“金元宝”平台的涉案赌资就达到了7600多万元，通过买卖游戏豆获利790多万元。</p>
+<p>李俊作为被口头承诺的股东之一，因这次的开设赌场罪，又被判了3年。</p>
+<h2 id="人生如何逆袭">人生如何逆袭？</h2>
+<p>看完李俊的故事，我心情很复杂，专科毕业的他最初在找工作的时候遇到了一些不好的待遇，让他成名的熊猫烧香带给他巨大的光环，同时也让他沉入谷底。</p>
+<p>就在人们都期待李俊好好做人，完成人生逆袭的时候，再次入狱的现实帮助人们回归理智：<strong>逆袭真的没那么容易。</strong></p>
+<p>回到我的问题，人生如何逆袭？老实讲，我不知道，但我知道的是如何确保自己走在上升的通道中。</p>
+<p>币范的读者都是区块链的用户，那我就先来回答第一个问题：炒币能不能帮你逆袭？</p>
+<h3 id="炒币的本质是认知变现">炒币的本质是认知变现</h3>
+<p>炒币本身就是一种投资行为，而投资的本质就是认知变现。</p>
+<p><strong>炒币即决策，决策差异背后的根本是认知水平</strong>，决策就是对未来的不确定性下注，投资的过程就是不断地在胜率和赔率之间做平衡。</p>
+<p>**认知是多维度的，成功的投资需要完整的体系支撑，**多维度的认知可以从不同的层面优化你投资体系的胜率和赔率指标，妄图通过别人的某些指点、某些消息获得成功的，都是不靠谱的，你需要了解的不仅仅是这个币的完整历史和数据，你更需要的是在实践中摸索自己的投资体系。</p>
+<p>**投资很难赚到你不信的那份钱，知道和相信之间有很大的距离，而真正的认知是相信，**很多人买币的依据的别人都在买，比如EOS，至于EOS是干啥的，反而变得不那么重要了。</p>
+<h3 id="让纪律给人生兜底">让纪律给人生兜底</h3>
+<p>人生逆袭，我能想到的第一条就是：纪律兜底。</p>
+<p>简单来说就是自律，只不过这个自律建立在纪律上面。</p>
+<p><strong>可能从高考过来的我们特别不喜欢纪律这个词，但是高考确是当代中国人唯一可以通过考试逆袭的机会，而且是绝无仅有的公平。</strong></p>
+<p>高考放榜之后，衡水中学这四个字变会像李俊的熊猫烧香那样响彻中国，而这背后应该就是大家熟知的衡水中学的时间表。</p>
+<p><img src="https://ws2.sinaimg.cn/mw690/534fc2d6ly1g58wt5xrgnj20k00b9gna.jpg" alt="时间表"></p>
+<p>你可以想想在这样的时间表下生活的学生，成绩能差到哪里去？</p>
+<p>可能你不喜欢，我也不喜欢。但<strong>你有没有想过，他们目标明确，想尽办法、极尽所能的接近自己的目标，这不正是我们这些所谓成年人说的全力以赴吗？</strong></p>
+<p>怎么真的让你全力以赴的时候，你反而不乐意了呢？</p>
+<p>我没有要鼓励大家非要用这样的方式去生活，我想说的是：<strong>自律永远是人生可贵的品质之一，它不能保证你逆袭，但至少这个方向不会错。</strong></p>
+<p>因为自律兜底的人生不差到哪。</p>
+<h3 id="让努力可积累">让努力可积累</h3>
+<p>前一阵我花了几个小时整理了我电脑的文件夹，这是一件很琐碎、很烦人的事情，推动我下定决心去做这件事的是我看到的这句话：</p>
+<blockquote>
+<p><strong>让努力可积累</strong></p>
+</blockquote>
+<p>你可以想一下你每次找文件的经历？一顿狂翻，半这小时之后，还是没找到，或者找到的不是自己想要的那个版本。</p>
+<p>可怕的是这样的经历每天都在重复，我们却没感知</p>
+<ol>
+<li>文件一次一次寻找</li>
+<li>工作一次一次的犯着同样的错</li>
+<li>上班一次一次的迟到</li>
+<li>买币一次一次被骗</li>
+<li>投资的币一次一次被套</li>
+<li>。。。</li>
+</ol>
+<p>每个人可能都有，可能都很熟悉，我们的每一次努力都只是单纯的一次努力，没有推着我们向前，反而原地打转。。。像极了李俊的人生</p>
+<p><strong>如何让努力可积累？</strong></p>
+<ol>
+<li>记录</li>
+<li>反思</li>
+<li>构建规矩，建立体系</li>
+</ol>
+<h2 id="币范有话说福利时间">币范有话说（福利时间）</h2>
+<p>炒币能让你人生逆袭吗？大概率不能。</p>
+<p>今天聊得主题可能有点大，算是看到李俊人生起伏的一点感慨。正如我提到的，我不知道人生如何逆袭，我也不知道如何获得成功？我知道的就是我自己实践过的、验证过的两点：</p>
+<ol>
+<li><strong>让纪律给人生兜底</strong></li>
+<li><strong>让努力可积累</strong></li>
+</ol>
+<p>这两点能帮你的就是让你在正确的方向上往前挪，而不是原地打转。</p>
+<p><strong>福利时间</strong></p>
+<p>前端时间李老师又出书啦，这次是关于定投的系统书籍，《定投改变命运 —— 让时间陪你慢慢变富》，让我们的定投有章可循、有矩可依，<strong>扫描下方二维码关注币范公众号回复 定投 即可领取电子版。</strong></p>
+<p><img src="https://ws2.sinaimg.cn/mw690/534fc2d6ly1g58wtaw399j20p00dwq4p.jpg" alt="微信图片_20190722204636"></p>
+<p>币范，bitcoiner，努力写干货，让一部分人先懂区块链。</p>
+<p>欢迎各位“饲养员”给币范“投食”。</p>
+<p>如果你很喜欢我们的文章，但又没有能量赞，<strong>转发评论也是一种支持</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【币范·认知】初来币圈，我竟然发现自己是个投资天才]]></title>
+        <id>https://tuionf.github.io/post/bi-fan-ren-zhi-chu-lai-bi-quan-wo-jing-ran-fa-xian-zi-ji-shi-ge-tou-zi-tian-cai</id>
+        <link href="https://tuionf.github.io/post/bi-fan-ren-zhi-chu-lai-bi-quan-wo-jing-ran-fa-xian-zi-ji-shi-ge-tou-zi-tian-cai">
+        </link>
+        <updated>2019-08-01T09:17:47.000Z</updated>
+        <content type="html"><![CDATA[<p>上周小编读了李老师<a href="https://github.com/xiaolai/regular-investing-in-box?utm_source=hacpai.com">《定投——大佬的自我修养》</a>这本书，顺了写了一篇读书笔记，<a href="https://bihu.com/article/1836296130">感兴趣的可以点这里查看。</a>虽说写完之后发现有点水，奶BOX奶的有点过分，不过仍然是一本可读的书。</p>
+<p>今天，还是想借着这本书再聊一下「定投」，尤其是涉及到的心理建设部分。</p>
+<h2 id="一入币市我竟然发现自己是个天才">一入币市：我竟然发现自己是个天才</h2>
+<p>很多人进入币圈的时间很短，毕竟币圈时间本来就不长，这很正常，可怕的是很多人进来之前一点点投资经验都木有，这就导致了一个很可怕的现象：<strong>很多人发现自己是个天才</strong> ，此话怎讲？看个段子你就知道了。</p>
+<blockquote>
+<p>我一直想不明白：**为什么我一个小小散户竟能左右整个市场？**不管之前涨势多么疯狂，我一买入它必定下跌！哪怕已经已经破了 30 日支撑线，死叉叉了一次又一次，我一卖出它就上涨。我一空仓大盘疯涨，我一满仓大盘狂泻。手握百亿资金的庄家们竟死死盯着我手里这几万块钱不放。这到底是为啥？！</p>
+</blockquote>
+<p>我相信很多人都有这个感觉，包括很多在股市摸爬滚打很多年的（经验和时间没关系，单一的重复不是啥经验），一个小小的散户竟然能左右整个市场？这不是天才是啥？</p>
+<p>塔勒布（就是写黑天鹅的那个人）有一本书叫做《随机漫步的傻瓜》，这本书的名字就很形象的形容了这类人，随机漫步的傻瓜，因为随机漫步的结果就是原地不动，这就是这类人的结局。</p>
+<p>如果放到股市中还不是原地不动，认知原地不动，钱亏的裤裆都没了。。。</p>
+<p><strong>那怎么办呢？</strong></p>
+<ol>
+<li>**记录，记录，记录，**记录你做投资决策的依据和成本以及当下的心里感受</li>
+<li>**回顾，回顾，回顾，**当投资产生结果之后，来回顾自己的投资决策，反思之前的决定</li>
+</ol>
+<h2 id="投资的武林秘籍">投资的武林秘籍</h2>
+<p>最近在看优酷的《这就是街舞2》你会发现一个很明显的矛盾就是：观众需要的和街舞需要表达的往往不太一致，观众需要的是燃、是炸，而不是所有的街舞都是燃、是炸的。</p>
+<p>很多人对投资的理解就是我要修炼一门独家武学，而这门独家武学的修炼一定是困难重重、复杂深邃的，好比金庸小说里面所有的武林秘籍一样，都需要历经艰险、克服困难，有时可能还需要付出点身体上的代价。。。</p>
+<p>这就是为什么大多数人放着GAFATA（G（Google）A（Amazon）F（Facebook）A（Apple）T（Tencent）A（Alibaba）这6家公司的股票）不投，放着茅台不买，偏偏要去寻找下一个乐视，但事实是，投资上一招一式就可以走遍天下，<strong>普通人的投资不需要什么武林秘籍</strong>。而这简单的一招一式就是定投。</p>
+<p>定投选择的是市场上最聪明的人们选出的一系列的标的 —— 无论是投资者还是投机者都同样用他们的钱投票决定出来的标的。</p>
+<h2 id="如何用好一招一式">如何用好一招一式</h2>
+<p>最好的往往很简单，正如很多道理一样，简单到像极了鸡汤，但是往往最后发现这就是真理。如何做好一招一式的定投？</p>
+<blockquote>
+<p><strong>李笑来的答案是：做好心理建设</strong></p>
+</blockquote>
+<p>如何做好定投的心理建设？从进入市场的那一刻就开始只做定投</p>
+<p>同时，李老师还给出来几个建议：</p>
+<ol>
+<li><strong>为你做的事情赋予极其伟大的意义</strong></li>
+</ol>
+<p>比如很多人是为了给自己的孩子留几个比特币，这就是其定投的伟大意义，你也可以自己赋予一个意义</p>
+<ol start="2">
+<li><strong>培养自己的主动人格</strong></li>
+</ol>
+<p>自发地研究问题，自发地去验证自己的思考结果，而那结果无论正确与否，他们始终会自发地去应用，如若出错，马上自发地重新来过，调整、纠正、再次通过应用去论证…… 这是一个完整的闭环流程体系</p>
+<h2 id="币范有话说">币范有话说</h2>
+<p>定投的话题，币范讲过很多次了，但是大家做的往往不好。也希望通过这篇文章帮助大家理顺定投路上的一些障碍。</p>
+<p>李老师这本书呢，如上次所说，有点水，但是还是值得消遣娱乐的。</p>
+<p><strong>【推荐阅读】</strong></p>
+<p><a href="https://bihu.com/article/1022951810">【币范·投资】定投抄作业，为何70%的人会亏损？</a></p>
+<p><a href="https://bihu.com/article/1649281763">【币范·投资】为什么你定投还不赚钱？可能是用错了方法</a></p>
+<p><a href="https://bihu.com/article/1836296130">【币范·认知】定投的快乐，就是这么朴实、无华且枯燥</a></p>
+<p><strong>扫描下方二维码关注币范公众号回复 定投 即可领取本书电子版。</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[关于咕噜直播，你需要知道的最小必要知识（浓缩精华版）]]></title>
+        <id>https://tuionf.github.io/post/guan-yu-gu-lu-zhi-bo-ni-xu-yao-zhi-dao-de-zui-xiao-bi-yao-zhi-shi-nong-suo-jing-hua-ban</id>
+        <link href="https://tuionf.github.io/post/guan-yu-gu-lu-zhi-bo-ni-xu-yao-zhi-dao-de-zui-xiao-bi-yao-zhi-shi-nong-suo-jing-hua-ban">
+        </link>
+        <updated>2019-08-01T09:16:52.000Z</updated>
+        <content type="html"><![CDATA[<p>本次咕噜直播的时间是上周五（2019-07-19），主题是：你的下一次阶级跃升，咕噜选择的时间点也很有意思，正是币乎跌的很惨的时候。。。其中的意图大家自己体会</p>
+<p>另外，开始直播的时候，咕噜还以身作则的做了一个利益声明，也正是对目前币乎推的长文利益声明的自我践行，这个币乎老大当的真的是一个大写的服。</p>
+<h2 id="公有链的本质">公有链的本质</h2>
+<p>这个很重要，所以我单独列出来一个标题：</p>
+<p><strong>公有链本质上是全人类、超大规模、低摩擦的协作平台</strong></p>
+<p>这里面有三个关键词，全人类、超大规模、低摩擦，限定词是协作平台，用大白话说就是：</p>
+<ol>
+<li>公有链是一个协作平台，商业社会也是一个协作平台，那区别是啥？</li>
+<li>低摩擦，既想要超大规模，又想要低摩擦，意思是既想要人多，我还想不拥挤</li>
+</ol>
+<h2 id="未来的三种可能性">未来的三种可能性</h2>
+<p><strong>三种可能性：</strong></p>
+<h3 id="一比特币独大">一：比特币独大</h3>
+<p><strong>前提是：<strong>技术上比如吞吐量这样的问题解决未能得到</strong>有效、及时</strong>的解决</p>
+<p>**基本事实：**比特币网络处于比较饱和状态，转账手续费很高，但是目前比特币市值依然很高</p>
+<p>**结论：**比特币是人们公认的数字黄金，而不是中本聪在其白皮书中提到的的点对点的数字支付系统。</p>
+<p>比特币是价值存储，这点是目前既定的事实，<strong>核心是稳定</strong>，但是价值存储的市场就非常非常大，同时比特币的稳定在快速发展的世界里是稀缺的，这样的稳定已经成为大多数人的共识（从这点来看吞吐量对于比特币不是问题）</p>
+<p>另外，地缘政治、两极分化等等的情况下，法币将会长期处于低利率状态，导致法币的通胀只会越来越严重。</p>
+<p>所以比特币的稳定、价值是时间长期累积的结果，同时未来，时间也会站在比特币这边，而非法币。</p>
+<h3 id="二智能合约占主导">二：智能合约占主导</h3>
+<p>**前提是：**技术上获得突破，吞吐量等技术上不是问题</p>
+<p>**基本事实：**目前的智能合约平台都挺惨的，相比比特币来说，目前智能合约平台需要不断的创新，目前以太坊的网络情况还是很满的，留下来的只能金融应用</p>
+<p><strong>结论：<strong>当吞吐量会获得技术突破的话，智能合约平台的</strong>网络效应</strong>会大于比特币，咕噜把智能合约平台的网络效应类比大城市，大城市的协作效率是很高的，类比到智能合约平台就是网络效应会非常显著，这样造成的结果就是协作效率的提升。</p>
+<p><strong>咕噜看好智能合约占主导这种可能性，但同时也在其他可能性上押注了。</strong></p>
+<p><strong>目前市场上有三个方向提高吞吐量和平台性能</strong></p>
+<ol>
+<li>牺牲一点去中心化，让每个节点变成数据中心，类似EOS</li>
+<li>二层网络，类似闪电网络</li>
+<li>跨链和分片，把一台计算机做不完的事情做平行计算</li>
+</ol>
+<p>两类方案，一种是以Cosmos为代表的邦联制，另一个是波卡、以太坊2.0为代表的联邦制，效率更好，技术难度更大</p>
+<h3 id="三外部共识形成的垄断类似fb的libra">三：外部共识形成的垄断类似FB的Libra</h3>
+<p>这种可能性很小，核心的点不是在于技术上，技术上不是问题，正如马化腾在朋友圈所说技术上不是问题，问题在于监管</p>
+<p>这就是为什么Libra一出现就被调查的原因，在监管上有很大的阻力</p>
+<h2 id="直播中提问的问题">直播中提问的问题</h2>
+<p>我只记录了自己感兴趣的，不是全部哈</p>
+<ol>
+<li>Cosmos、波卡，更看好谁？</li>
+</ol>
+<p>不确定，谁能更好的在一平米的面积上做成一块大陆，吸引更多短发进来谁可能性就更大，简单来说，谁更快，更具网络效应，可能性就更高</p>
+<ol start="2">
+<li>FB的发币不是第一个，为啥带来的影响如此巨大？</li>
+</ol>
+<p>FB做的事情就是发币要做的事情，之前的摩根都是内部，另外FB的流量巨大，是跨越国家的，此外，FB的币Libra政治家是能看懂的，就是央行要做的事情</p>
+<ol start="3">
+<li>区块链相当于互联网的哪个阶段？</li>
+</ol>
+<p>相当于2000左右吧，不一定那么准确</p>
+<h2 id="关于key">关于KEY</h2>
+<p>关于KEY，其实这次直播并没有直接提到，咕噜本身是看到智能合约这种可能性的，并且押注在这个上面。因为MyKEY提供的是私钥管理解决方案，不论哪一个智能合约平台走出来，都需要MYKEY的服务。</p>
+<h2 id="结语">结语</h2>
+<p>咕噜在直播中讲了三种可能性，但未来是不确定的，随着时间推移，各种可能性会越来越清晰，比特币会持有，智能合约的代币也会买，咕噜最看重的就是看平台如何解决吞吐量的问题。</p>
+<p>以上就是你需要知道的这次直播的全部内容啦，感谢关注币范。</p>
+<p><img src="https://oss02.bihu.com/image/20190719/453d6f3975f3d37c55aa2fa94b029e2b_GE3TKNZKGEYDMMA.png" alt="img"></p>
+<p>币范，bitcoiner，努力写干货，让一部分人先懂区块链。</p>
+<p>欢迎各位“饲养员”给币范“投食”。</p>
+<p>如果你很喜欢我们的文章，但又没有能量赞，<strong>转发评论也是一种支持</strong></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【币范·解读】从币乎51期周报说说我眼中未来的币乎]]></title>
+        <id>https://tuionf.github.io/post/bi-fan-jie-du-cong-bi-hu-51-qi-zhou-bao-shuo-shuo-wo-yan-zhong-wei-lai-de-bi-hu</id>
+        <link href="https://tuionf.github.io/post/bi-fan-jie-du-cong-bi-hu-51-qi-zhou-bao-shuo-shuo-wo-yan-zhong-wei-lai-de-bi-hu">
+        </link>
+        <updated>2019-08-01T09:15:52.000Z</updated>
+        <content type="html"><![CDATA[<p>本周一，币乎如期发布了第51期简报：摐金伐鼓，向前~，币乎的作用一如既往的简洁精炼，可是小编却在这份周报中看到了未来币乎可能的样子，跟随小编一起来畅想一下吧。</p>
+<p><strong>过去的一周：MYKEY锁仓计入权重</strong></p>
+<p>MYKEY锁仓计入权重应该是过去的一周币乎最大的动作了吧，币乎用户和MYKEY用户应该有很大一部分的重叠，所以把MYKEY锁仓计入权重算是情理之中。</p>
+<h2 id="工单反馈系统">工单反馈系统</h2>
+<p>周报中再次提到了反馈/工单系统，目前已经进入了上线准备的阶段，预计在不就之后就会和大家见面。</p>
+<p>没有渠道反馈币乎官方一直是大家吐槽的点，前几天罗罗还专门写文吐槽，点赞者众，说明大家苦币乎久已。</p>
+<p>币乎没有使用目前现有的工具，比如微信去解决反馈的问题，反而开发全新的工单 / 反馈系统，不清楚其背后的逻辑。</p>
+<p>有可能是运营人员精力不够，没办法运营微信吧，内情不清楚，反正期待上线就对了。</p>
+<h2 id="web优化和抱团点赞">web优化和抱团点赞</h2>
+<p><strong>币乎网页版的编辑器是目前所有区块链内容平台中最烂的</strong>，没有之一，虽然大家做的都不怎么样，但是好歹该有的都有，而币乎连基本的 md 格式的网络图片都渲染不出来，让人匪夷所思。</p>
+<p>更奇诡的是币乎之前的版本是支持的，这个功能是被币乎优化没的，真的不知道在搞啥，希望这次能给点力吧，拿出No1的实力。</p>
+<p><strong>抱团点赞</strong></p>
+<p>关于抱团点赞，周报中说的是：</p>
+<blockquote>
+<p>对抱团点赞的算法识别与防范功能上线</p>
+</blockquote>
+<p>不知道是啥样的算法，但这点确实和作者的利益紧密相关，就简单聊聊抱团点赞的事情。</p>
+<ol>
+<li><strong>抱团点赞是币乎目前的点赞机制形成的，符合经济规律</strong></li>
+</ol>
+<p>为什么抱团点赞？因为这样能够受益最大化，通过算法去识别抱团点赞，然后降权，之后呢？文章收益降低，作者可能会离开，你可能会说，那是文章写得不好的作者，可能是吧，但一个平台怎么可能都是好作者呢？</p>
+<ol start="2">
+<li><strong>抱团点赞是权重为王的结果</strong></li>
+</ol>
+<p>不论好文算法执行的怎么样，效果如何，对于文章收益来说，权重是第一位的，好文好报这个口号本身有极大的误导性，那是一个理想国，好文大概率有好报才是美好的现实，显然好文算法没达到要求，至少没有到达我的预期。</p>
+<p>我没有反对币乎优化抱团点赞的意思，一个平台到底选择去保护谁的利益是他的自由，作者也好，读者也罢，终究需要平衡。</p>
+<h2 id="荣誉系统与行情">荣誉系统与行情</h2>
+<p>先来说说行情吧，周报提到项目相关行情支持功能的早期设计与讨论，说明这个功能还在讨论阶段，距离上线还很遥远，就不讨论了，币乎毕竟是要为项目方服务的，所以行情的上线也在预料之中。</p>
+<p>荣誉系统让我想起来我的QQ等级，好像是46级的样子吧，不知道币乎会给我多少级？期待一下</p>
+<p>另外，荣誉系统会不会可能是个契机，开放币东参与币乎整体的运营当中来，让更多的人有参与感，比如增设币乎巡查员之类的角色，针对刷评论、抄袭、发布错误的利益相关申明等违规公约行为进行举报投诉啥的，在这里力哥FLAG坐等打脸。</p>
+<h2 id="币范有话说">币范有话说</h2>
+<p>本来想借着新一期的周报，畅想一下币乎未来的，没想到写完之后反而有点像吐槽了，可能内心积怨已久需要对币乎吐吐槽吧。</p>
+<p>这也是币乎一直没有建立反馈机制的毛病，让很多人的怨言一直挤压，本来有个渠道大家吐吐槽也就没事了，结果是投诉无门。</p>
+<p>工单、反馈系统和荣誉系统应该是我对币乎最期待的功能了，也希望能尽快上线，一起建设币乎。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[【币范·工具】5天之后，你期待想恐慌指数小程序终于上线了]]></title>
+        <id>https://tuionf.github.io/post/bi-fan-gong-ju-5-tian-zhi-hou-ni-qi-dai-xiang-kong-huang-zhi-shu-xiao-cheng-xu-zhong-yu-shang-xian-liao</id>
+        <link href="https://tuionf.github.io/post/bi-fan-gong-ju-5-tian-zhi-hou-ni-qi-dai-xiang-kong-huang-zhi-shu-xiao-cheng-xu-zhong-yu-shang-xian-liao">
+        </link>
+        <updated>2019-08-01T09:14:19.000Z</updated>
+        <content type="html"><![CDATA[<p>在周一的时候我给大家科普了一下恐慌指数，<a href="https://bihu.com/article/1427677063">不了解的请点这里</a>，当时我在文章中提到会做一个恐慌指数的小程序，5天之后，这个小程序终于上线啦。</p>
+<h2 id="为什么要做这个小程序">为什么要做这个小程序</h2>
+<p><strong>首先是自己的需求</strong>，在详细的理解了这个指数之后，我希望能够更方便、快速的看到当前的指数，而目前的网页不够便捷</p>
+<p><strong>其次是基于这个指数，我有一些投资的诉求</strong>，比如说当指数很低，即市场情绪恐慌的时候，我希望能够去购买一些资产，当指数很高的时候，希望能够及时卖出一些资产，<strong>基于这个我希望能够有一个工具能够及时提醒我</strong></p>
+<p>最后就是希望借助这个小程序练练技术，这个是个人技术层面的诉求了。</p>
+<h2 id="扫描二维码体验小程序">扫描二维码体验小程序</h2>
+<p>目前小程序已经在微信上线啦，感兴趣的可以扫描下面的二维码体验：</p>
+<p>跪求各位扫描体验一下~~~</p>
+<p>跪求各位扫描体验一下~~~</p>
+<p>跪求各位扫描体验一下~~~</p>
+<p><img src="https://image-1259616414.cos.ap-chengdu.myqcloud.com/20190712171152.png" alt=""></p>
+<p>你也可以在微信搜索 FearIndex 找到这个小程序。</p>
+<blockquote>
+<p>中文名字的小程序已经被注册了，所以只能注册个英文的了</p>
+</blockquote>
+<h2 id="恐慌指数小程序介绍">恐慌指数小程序介绍</h2>
+<p>小程序分为三个部分：</p>
+<ol>
+<li>当前恐慌指数</li>
+<li>指数说明</li>
+<li>关于我们</li>
+</ol>
+<p>下面分别来介绍</p>
+<h3 id="今日恐慌指数">今日恐慌指数</h3>
+<p><img src="https://image-1259616414.cos.ap-chengdu.myqcloud.com/1562923172(1).png" alt=""></p>
+<p>这个页面是小程序默认进来的首页面，从这个页面可以看到当前的恐慌指数、以及昨天、上周、上个月的恐慌指数数据。</p>
+<blockquote>
+<p>需要提醒的是我在上周、上周都标记了日期，这是因为<a href="https://alternative.me/">alternative</a>官网对于上周、上月的定义不是很明确，我也没找到相关的解释，有懂的欢迎指出来。</p>
+</blockquote>
+<p>可以看到当前的指数是 33 ，恐惧状态，大盘的暴跌确实让大家心里草泥马了一万遍。。。</p>
+<p><strong>还可以通过和历史数据的对比，做出自己的投资决策，如果需要更多的历史数据，欢迎提出来，酌情考虑添加。</strong></p>
+<h3 id="指数说明">指数说明</h3>
+<p><strong>这部分是为了给不理解恐慌指数的小白准备的</strong>，分为三部分：什么是恐慌指数、如何使用恐慌指数、注意事项</p>
+<p><img src="https://image-1259616414.cos.ap-chengdu.myqcloud.com/20190712172755.png" alt=""></p>
+<p><strong>其中如何使用恐慌指数的部分给到了一些操作意见，但是仅供参考，同时指数本身也只是参考性的，这点也需要注意。</strong></p>
+<p>注意事项部分给到了指数使用的一些注意事项，包括只针对比特币等，具体可以去小程序查看。</p>
+<h3 id="关于我们">关于我们</h3>
+<p><img src="https://image-1259616414.cos.ap-chengdu.myqcloud.com/20190712173110.png" alt=""></p>
+<p>这部分包括四个部分：</p>
+<ol>
+<li>关于本小程序的介绍</li>
+<li>指数组成：这部分更加详细的解释了指数的来源，感兴趣的可以点进去看看</li>
+<li>打赏币范：欢迎各位看官支持我们</li>
+<li>联系币范：你有吐槽和建议都可以来和我们取得联系，支持我们</li>
+</ol>
+<h2 id="分享给好友">分享给好友</h2>
+<p>如果你觉得小程序好用，你可以使用下面的方式推荐给你的好朋友，还可以给小程序点赞或者打分哦！</p>
+<p><img src="https://image-1259616414.cos.ap-chengdu.myqcloud.com/d53a9550edfcf94f112ee4398fe081d.jpg" alt=""></p>
+<h2 id="后续的迭代计划">后续的迭代计划</h2>
+<p>正如我在为什么要做这个小程序中提到的，目前的小程序只满足了我的第一、三个诉求，第二个诉求目前还未得到满足，后续的迭代计划应该会围绕着这个点去做。</p>
+<p>比如说当指数跌破30的时候提醒我买入，当指数超过90的时候提醒我卖出</p>
+<p>其他的暂时还没想到，如果你有想法欢迎和我聊一聊。</p>
+<h2 id="尾巴">尾巴</h2>
+<p>从有做恐慌指数小程序的想法开始到今天，5天时间，除了正常的工作时间，小程序基本在业余时间开发完成，服务端的数据上基本都是现成的，我只做了前端的工作，目前做的小程序还很粗糙，你看到的页面可能你觉得非常简单，实际上每个页面背后包含了很大的代码量，其中因为对小程序不熟悉，走了很多的弯路。但这并未妨碍它的诞生，它还是在我一行行的代码下，艰难的孵化了出来。</p>
+<p><strong>正如暴跌的比特币，在被更多人认识的路上，暴涨暴跌都是常态。举步维艰是常态，但更重要的是持续向前。</strong></p>
+<p>因为小程序是初版，所以一定会有很多未知的问题，希望大家不吝赐教。以上。</p>
+<p><img src="https://image-1259616414.cos.ap-chengdu.myqcloud.com/20190712171152.png" alt=""></p>
+<p>扫一扫一币一嫩模~~~</p>
+<p>扫一扫出门就捡钱~~~</p>
+<p>扫一扫周末更愉快~~~</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[力场榜：励志能够成为力场最棒的周边服务产品]]></title>
+        <id>https://tuionf.github.io/post/li-chang-bang-li-zhi-neng-gou-cheng-wei-li-chang-zui-bang-de-zhou-bian-fu-wu-chan-pin</id>
+        <link href="https://tuionf.github.io/post/li-chang-bang-li-zhi-neng-gou-cheng-wei-li-chang-zui-bang-de-zhou-bian-fu-wu-chan-pin">
+        </link>
+        <updated>2019-08-01T08:50:57.000Z</updated>
+        <content type="html"><![CDATA[<p>力场推出 Lichang Lab ，Lichang Lab  是力场为开发者提供的开发平台。开发者可以使用公开接口，基于力场数据开发自己的应用，自此力场向着开放的区块链内容平台迈出了一大步。</p>
+<p>Lichang Lab的推出可以让开发者根据接口实现自己心目中的力场，同时也可以不断丰富力场的使用场景，不足和完善力场在各个平台的产品上的不足，可谓一举多得。</p>
+<p>今天，币范带着自己的作品来了，<strong>全新的力场小程序：力场榜</strong>，下面就是正式开始产品介绍。</p>
+<p>一个内容平台最重要的就是读者和作者，如何服务好读者和作者是每一个平台运营的关键，力场榜诞生正是基于这个思路，更好的服务读者和作者。</p>
+<h2 id="榜单功能">榜单功能</h2>
+<p>正如力场榜的名字一样，力场榜最核心、最重要的功能就是提供榜单服务，这应该也是作者和读者都关心的话题。到底谁持有的LC最多？谁的粉丝最多？谁的关注人数最多？等等一系列和榜单相关的问题都能在这个功能里面都到答案。</p>
+<h3 id="榜单功能介绍">榜单功能介绍</h3>
+<p>废话不多说，先上图：</p>
+<p><img src="https://wx2.sinaimg.cn/mw690/534fc2d6ly1g5inqapqt7j20b60hn3zx.jpg" alt="image"></p>
+<p>进来小程序首先看到的就是榜单功能，<strong>分为财富榜和粉丝榜</strong>，通过财富榜可以看到各位大佬的LC持有量，看看前10名的大佬，果然没有我。。。，都是力场里面赫赫有名的，膜拜ing</p>
+<p>大家可以通过财富榜看到各位大佬的持仓量，也可以看到自己所处的位置，也可以通过统计大家的持仓量看看力场社区目前整体的持有量，总之数据就在这里，如何发挥任你想象。</p>
+<p><strong>另一个榜单是粉丝榜</strong>，这个榜单可以反应每个作者在力场的关注度，毕竟人气和持仓量还是不一样的，从下图也能看到，这两个榜单前10名的差异还是挺大的，粉丝榜可以帮助读者和作者寻找到更好、更优秀的作者借鉴学习。</p>
+<p><img src="https://wx4.sinaimg.cn/mw690/534fc2d6ly1g5iny0pg67j20b40hd3zx.jpg" alt="image"></p>
+<h3 id="榜单功能开发概略">榜单功能开发概略</h3>
+<p>力场榜小程序中，榜单功能的开发耗时最久，下面我简单说一下这部分的开发：</p>
+<p>榜单的开发利用了一个接口通过 id 查询用户信息的接口，这个接口返回的结果中有用户的LC持有量以及粉丝数、关注人数等数据。</p>
+<p>通过这些数据在小程序中通过循环的方式遍历出来所有的数据，然后排序就生成了榜单的数据。</p>
+<p>下面是小程序的页面代码：</p>
+<!--index.wxml-->
+<view class="container">
+  <van-tabs scroll="{scrollTop:1px,isFixed:true}" type="line" animated border="true" line-width="3" bind:change="onChange">
+    <van-tab wx:for="{{tabList}}" wx:key="{{key1}}" title="{{item.name}}">
+        <view class='tabs-index' wx:if="{{curIndex == '0'}}" wx:key="{{index}}" wx:for="{{lcNumbers}}">
+          <image lazy-load="{{true}}" class='tab-index-1' src='{{item.avatar}}'></image>
+          <view class='tab-index-2'>{{item.nickname}}</view>
+          <view class='tab-index-3'>{{item.lcNumber}}</view>
+        </view>
+<pre><code class="language-xml">    &lt;view class='tabs-index' wx:if=&quot;{{curIndex == '1'}}&quot; wx:key=&quot;{{index1}}&quot; wx:for=&quot;{{fans}}&quot;&gt;
+      &lt;image lazy-load=&quot;{{true}}&quot; class='tab-index-1' src='{{item.avatar}}'&gt;&lt;/image&gt;
+      &lt;text class='tab-index-4'&gt;{{item.nickname}}&lt;/text&gt;
+      &lt;view class='tab-index-3'&gt;{{item.fansCount}}&lt;/view&gt;
+    &lt;/view&gt;
+&lt;/van-tab&gt;
+  &lt;/van-tabs&gt;
+&lt;/view&gt;
+</code></pre>
+<h2 id="精选">精选</h2>
+<p>第二个重要的功能就是精选了，这个功能的出发点是为了让用户通过小程序更便捷的接触到精选文章，服务读者，同时也可以让作者在这里获得一些灵感和素材。</p>
+<p>主要考虑的就是小程序的便捷性。</p>
+<p><img src="https://ws3.sinaimg.cn/mw690/534fc2d6ly1g5iq81sgddj20b40gjn0s.jpg" alt="image"></p>
+<p>如图，这部分和官方力场的APP基本保持一致，在一些细节上针对小程序的特点有所调整，但整体保持和官方一致，不会让用户有割裂感。</p>
+<p>这部分的实现通过力场lab提供的精选接口，接口基本能够把所有的数据返回回来，然后根据要求展示出来即可。</p>
+<p>下面是精选的部分代码：</p>
+<pre><code class="language-xml">&lt;!--index.wxml--&gt;
+&lt;view class=&quot;container&quot;&gt;
+    &lt;view  class='item' wx:for=&quot;{{list}}&quot;&gt;
+      &lt;view class='userInfo'&gt;
+        &lt;image class='avatar' src=&quot;{{item.avatar}}&quot;&gt;&lt;/image&gt;
+        &lt;view&gt;
+          &lt;view&gt;
+            &lt;text class='username'&gt;{{item.nickname}}&lt;/text&gt;
+            &lt;text class='num'&gt;{{item.lcNumber}}&lt;/text&gt;
+          &lt;/view&gt;
+          &lt;view&gt;
+            &lt;text class='tag'&gt;原创&lt;/text&gt;
+            &lt;text class='date'&gt;{{item.updateTime}}&lt;/text&gt;
+          &lt;/view&gt;
+        &lt;/view&gt;
+      &lt;/view&gt;
+    &lt;view class='title'&gt;{{item.title}}&lt;/view&gt;
+    &lt;view class='cover-group'&gt;
+      &lt;image class='cover' src='{{item.banner}}'&gt;&lt;/image&gt;
+    &lt;/view&gt;
+    &lt;van-tag class='circle' text-color=&quot;#459be5&quot; size=&quot;medium&quot; plain&gt;{{item.circleName}}&lt;/van-tag&gt;
+    &lt;view class='bottom-info-group'&gt;
+      &lt;view class='bottom-info'&gt;
+        &lt;image src='{{moneyicon}}'&gt;&lt;/image&gt;
+        &lt;text class='num'&gt;{{item.predictBonus}}&lt;/text&gt;
+      &lt;/view&gt;
+      &lt;view class='bottom-info'&gt;
+        &lt;image src='{{goodicon}}'&gt;&lt;/image&gt;
+        &lt;text&gt;{{item.like}}&lt;/text&gt;
+      &lt;/view&gt;
+      &lt;view class='bottom-info'&gt;
+        &lt;image src='{{plicon}}'&gt;&lt;/image&gt;
+        &lt;text&gt;{{item.comment}}&lt;/text&gt;
+      &lt;/view&gt;
+    &lt;/view&gt;
+  &lt;/view&gt;
+&lt;/view&gt;
+
+</code></pre>
+<h2 id="热门">热门</h2>
+<p>**第三个重要的功能就是热门了，可能很多用户都有看热门的习惯，所以小程序单独把热门列成一个功能模块，**方便大家更好的在力场学习区块链知识。</p>
+<p>同样利用小程序的便捷性，让力场的热门文章极速抵达用户视野。</p>
+<p>热门部分分为四个TAB页面，分别是全部和力场目前的三个圈子（力场、本体、EOS）：</p>
+<p><img src="https://ws1.sinaimg.cn/mw690/534fc2d6ly1g5iqig7p9aj20b70hftbt.jpg" alt="image"></p>
+<p>通过力场、本体、EOS三个TAB页面，可以看到每个圈子的热门文章，不需要点进圈子才能查看，方便程度又高了一大截。</p>
+<p><strong>这部分的开发通过 Vant 的 Tabs 组件和原生小程序的通用组件结合，调用力场Lab的热门接口实现</strong>，页面的代码部分如下，供参考：</p>
+<pre><code class="language-xml">&lt;!--index.wxml--&gt;
+&lt;view class=&quot;container&quot;&gt;
+  &lt;van-tabs type=&quot;line&quot; animated border=&quot;true&quot; line-width=&quot;3&quot; bind:change=&quot;onChange&quot;&gt;
+    &lt;van-tab wx:for=&quot;{{circleList}}&quot; wx:key='index' title=&quot;{{item.name}}&quot;&gt;
+      &lt;view  class='item' wx:for=&quot;{{list}}&quot; wx:key='index'&gt;
+        &lt;view class='userInfo'&gt;
+          &lt;image class='avatar' src=&quot;{{item.avatar}}&quot;&gt;&lt;/image&gt;
+          &lt;view&gt;
+            &lt;view&gt;
+              &lt;text class='username'&gt;{{item.nickname}}&lt;/text&gt;
+              &lt;text class='num'&gt;{{item.lcNumber}}&lt;/text&gt;
+            &lt;/view&gt;
+            &lt;view&gt;
+              &lt;text class='tag'&gt;原创&lt;/text&gt;
+              &lt;!-- &lt;text class='date'&gt;{{item.updateTime}}&lt;/text&gt; --&gt;
+            &lt;/view&gt;
+          &lt;/view&gt;
+        &lt;/view&gt;
+        &lt;view class='title'&gt;{{item.title}}&lt;/view&gt;
+        &lt;view class='cover-group'&gt;
+          &lt;image class='cover' src='{{item.banner}}'&gt;&lt;/image&gt;
+        &lt;/view&gt;
+        &lt;van-tag class='circle' text-color=&quot;#459be5&quot; size=&quot;medium&quot; plain&gt;{{item.circleName}}&lt;/van-tag&gt;
+        &lt;view class='bottom-info-group'&gt;
+          &lt;view class='bottom-info'&gt;
+            &lt;image src='{{moneyicon}}'&gt;&lt;/image&gt;
+            &lt;text class='num'&gt;{{item.predictBonus}}&lt;/text&gt;
+          &lt;/view&gt;
+          &lt;view class='bottom-info'&gt;
+            &lt;image src='{{goodicon}}'&gt;&lt;/image&gt;
+            &lt;text&gt;{{item.like}}&lt;/text&gt;
+          &lt;/view&gt;
+          &lt;view class='bottom-info'&gt;
+            &lt;image src='{{plicon}}'&gt;&lt;/image&gt;
+            &lt;text&gt;{{item.comment}}&lt;/text&gt;
+          &lt;/view&gt;
+        &lt;/view&gt;
+      &lt;/view&gt;
+    &lt;/van-tab&gt;
+  &lt;/van-tabs&gt;
+&lt;/view&gt;
+
+
+</code></pre>
+<h2 id="力场榜下一步计划">力场榜下一步计划</h2>
+<p>力场榜小程序通过力场Lab开发API实现了榜单、精选、热门的功能，**希望能够成为力场最棒的周边服务产品。**程序的开发难免仓促，尽管尽心测试，仍然难免会有一些缺陷需要继续迭代和修改。</p>
+<h3 id="已知问题">已知问题</h3>
+<ol>
+<li>
+<p>部分作者的头像图片无法正常显示</p>
+<p>不知道是力场存放在阿里云还是自己服务器上的图片有问题，还是我本地的实现有问题，部分作者的图片显示有问题，但是图片通过浏览器是可以访问到的，大部分以在阿里云的图片居多，原因不明</p>
+</li>
+<li>
+<p>文章更新的日期有时候显示不正确</p>
+</li>
+</ol>
+<p>官方API日期返回的是时间戳，通过格式化之后，时间有时候不是很对，这个还在排查，应该能很快定位到，随后修改一些</p>
+<ol start="3">
+<li>欢迎大家发现反馈问题</li>
+</ol>
+<h3 id="下一步迭代计划">下一步迭代计划</h3>
+<p>下一步的计划主要会在榜单和作者上下功夫，目前的榜单仅支持前100名作者的排序，后续希望能够继续扩大范围，覆盖更多的作者。</p>
+<p>另外，在榜单的数据上希望能够更加丰富，这部分看大家诉求。</p>
+<p>针对作者的方面，希望通过数据展示作者的个人主页，类似粉丝关注数据7天走势、文章收益走势等等数据类的服务。</p>
+<p>下一步希望官方API开放搜索功能，这样能够极大的扩张使用场景。</p>
+<h2 id="币范有话说">币范有话说</h2>
+<p>力场榜小程序，自力场LAB开放API之后就进入的开发，历时将近一个月，**力场榜希望成为力场最棒的周边服务产品，**币范希望能够通过小程序的形式服务力场用户，通过力场API让更多公链内容便捷的抵达用户。</p>
+<p>产品开发从来不是一朝一夕之功，虽已在有限的时间尽心尽力，但币范毕竟想法有限、势单力薄，希望更多人使用力场榜。</p>
+<p>放上二维码供大家体验。</p>
+<p><img src="https://ws2.sinaimg.cn/mw690/534fc2d6ly1g5isi9bo8wj2076076q40.jpg" alt="gh_9c8ef1e6dce8_258"></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[【币范·解读】币乎静悄悄的迎来了2.0时代]]></title>
         <id>https://tuionf.github.io/post/【币范·解读】币乎静悄悄的迎来了2.0时代</id>
